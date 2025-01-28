@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Davis Thomason"
   avatar : "/assets/images/TIDES_1:14:25_independent_USA.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My website that I made in REL 341"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
